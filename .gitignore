@@ -1,0 +1,25 @@
+# Visual Studio
+.vs/
+**/.vs/
+*.user
+*.suo
+
+# Build output
+Debug/
+Release/
+x64/
+**/Debug/
+**/Release/
+**/x64/
+
+# Compiled files
+*.exe
+*.obj
+*.pdb
+*.idb
+*.ilk
+*.tlog
+*.recipe
+
+# Windows shortcuts
+*.url
